@@ -1,6 +1,6 @@
 name: cricket_app
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -17,3 +17,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/cric-0.png
+    - assets/images/cric-1.png
+    - assets/images/cric-2.png
+    - assets/images/cric-3.png
+    - assets/images/cric-4.png
+    - assets/images/cric-5.png
+    - assets/images/cric-6.png
